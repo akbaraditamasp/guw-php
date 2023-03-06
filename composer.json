@@ -1,0 +1,18 @@
+{
+  "name": "akbaraditamasp/guwa-php",
+  "description": "PHP Library for API GUWA",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "GuwaPhp\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Akbar Aditama Supriyono Putra",
+      "email": "akbaraditamasp@gmail.com"
+    }
+  ],
+  "require": {}
+}
